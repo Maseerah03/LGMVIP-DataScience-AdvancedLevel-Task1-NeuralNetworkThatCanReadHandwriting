@@ -1,0 +1,1 @@
+# LGMVIP-DataScience-AdvancedLevel-Task1-NeuralNetworkThatCanReadHandwriting
